@@ -1,0 +1,6 @@
+framework module Pods_newJobEstimate {
+  umbrella header "Pods-newJobEstimate-umbrella.h"
+
+  export *
+  module * { export * }
+}
